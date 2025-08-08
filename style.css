@@ -1,0 +1,11 @@
+body{
+      font-family: "Goldman", sans-serif;
+}
+
+div{
+    text-align: center;
+}
+div img{
+    margin: 1rem;
+    width: 50rem;
+}
